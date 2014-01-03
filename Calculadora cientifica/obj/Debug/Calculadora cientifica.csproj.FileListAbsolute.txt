@@ -1,0 +1,9 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Proyectos\Calculadora cientifica\Calculadora cientifica\bin\Debug\Calculadora cientifica.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Proyectos\Calculadora cientifica\Calculadora cientifica\bin\Debug\Calculadora cientifica.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Proyectos\Calculadora cientifica\Calculadora cientifica\bin\Debug\Calculadora cientifica.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Proyectos\Calculadora cientifica\Calculadora cientifica\obj\Debug\Calculadora cientifica.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Proyectos\Calculadora cientifica\Calculadora cientifica\obj\Debug\Calculadora_cientifica.Form1.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Proyectos\Calculadora cientifica\Calculadora cientifica\obj\Debug\Calculadora_cientifica.Properties.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Proyectos\Calculadora cientifica\Calculadora cientifica\obj\Debug\Calculadora cientifica.csproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Proyectos\Calculadora cientifica\Calculadora cientifica\obj\Debug\Calculadora cientifica.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Proyectos\Calculadora cientifica\Calculadora cientifica\obj\Debug\Calculadora cientifica.pdb
